@@ -5,11 +5,13 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "JetBrains Mono Medium:size=12:style=Medium:antialias=true:autohint=true";
+static char *font = "Iosevka:style=Regular:size=12:antialias=true:autohint=true";
 /* Spare fonts */
 static char *font2[] = {
   "Noto Color Emoji:style=Regular:pixelsize=15:antialias=true:autohint=true",
-  "Hack Nerd Font:pixelsize=12:style=Regular:antialias=true:autohint=true"
+  "Hack Nerd Font:pixelsize=12:style=Regular:antialias=true:autohint=true",
+  "Unicode Color Emoji:pixelsize=12:style=Regular:antialias=true:autohint=true",
+  "DejaVu Sans:size=13:style=Book:antialias=true:autohint=true",
 };
 static int borderpx = 2;
 
