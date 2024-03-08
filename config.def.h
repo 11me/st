@@ -8,10 +8,7 @@
 static char *font = "Iosevka:style=Regular:size=12:antialias=true:autohint=true";
 /* Spare fonts */
 static char *font2[] = {
-  "Noto Color Emoji:style=Regular:pixelsize=15:antialias=true:autohint=true",
-  "Hack Nerd Font:pixelsize=12:style=Regular:antialias=true:autohint=true",
-  "Unicode Color Emoji:pixelsize=12:style=Regular:antialias=true:autohint=true",
-  "DejaVu Sans:size=13:style=Book:antialias=true:autohint=true",
+  "Unifont:size=13:style=Regular:antialias=true:autohint=true",
 };
 static int borderpx = 2;
 
